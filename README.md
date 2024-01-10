@@ -15,8 +15,8 @@ Included is the PureData Source File 'Simple-OSC-Heavy.pd', which works with Plu
 Heavy compiles Plugins for different formats already: LV2, VST2, VST3, Clap, Jack ... 
 BUT if you want to create your own GUI, you need to spend some extra work.
 AND JUCE gives you the opportunity to create Projects for a huge variety of plattforms. You can create Apps for iOS or Android Devices for example.
--
 
+##
 
 
 
