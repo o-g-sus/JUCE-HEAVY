@@ -12,3 +12,6 @@ In 'ParamIds.h' you have to double Hashs generate by the Heavy Compiler. In the 
 - [HVCC](https://github.com/Wasted-Audio/hvcc)
 - [HVCC C API](https://wasted-audio.github.io/hvcc/docs/05.c.html)
 - [JUCE](https://juce.com)
+
+
+![Groß (Bildschirmfoto 2024-01-10 um 21 23 21)](https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/965c4212-811f-4418-bd54-f9096a2225e6)
