@@ -16,12 +16,12 @@
 //==============================================================================
 /**
 */
-class GainTutorialAudioProcessorEditor  : public AudioProcessorEditor,
+class HeavyTutorialAudioProcessorEditor  : public AudioProcessorEditor,
                                           public Slider::Listener
 {
 public:
-    GainTutorialAudioProcessorEditor (HeavyTutorialAudioProcessor&);
-    ~GainTutorialAudioProcessorEditor();
+    HeavyTutorialAudioProcessorEditor (HeavyTutorialAudioProcessor&);
+    ~HeavyTutorialAudioProcessorEditor();
 
     //==============================================================================
     void paint (Graphics&) override;
@@ -35,5 +35,5 @@ private:
     
     HeavyTutorialAudioProcessor& processor;
 
-    JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (GainTutorialAudioProcessorEditor)
+    JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (HeavyTutorialAudioProcessorEditor)
 };

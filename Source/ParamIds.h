@@ -2,7 +2,7 @@
 
 #pragma once
 
-// HEAVY PARAMETERS
+// HEAVY PARAMETERS from Heavy_Simple_OSC.h
 
 //typedef enum {
 //  HV_SIMPLE_OSC_PARAM_IN_PITCH = 0x94DB5AB5, // Pitch

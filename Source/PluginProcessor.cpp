@@ -197,7 +197,7 @@ bool HeavyTutorialAudioProcessor::hasEditor() const
 
 AudioProcessorEditor* HeavyTutorialAudioProcessor::createEditor()
 {
-    //return new GainTutorialAudioProcessorEditor (*this);
+    //return new HeavyTutorialAudioProcessorEditor (*this);
     return new GenericAudioProcessorEditor (*this);
 }
 

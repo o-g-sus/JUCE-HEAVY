@@ -12,7 +12,7 @@
 #include "PluginEditor.h"
 
 //==============================================================================
-GainTutorialAudioProcessorEditor::GainTutorialAudioProcessorEditor (HeavyTutorialAudioProcessor& p)
+HeavyTutorialAudioProcessorEditor::HeavyTutorialAudioProcessorEditor (HeavyTutorialAudioProcessor& p)
     : AudioProcessorEditor (&p), processor (p)
 {
     
@@ -68,17 +68,17 @@ GainTutorialAudioProcessorEditor::GainTutorialAudioProcessorEditor (HeavyTutoria
     setSize (600, 300);
 }
 
-GainTutorialAudioProcessorEditor::~GainTutorialAudioProcessorEditor()
+HeavyTutorialAudioProcessorEditor::~HeavyTutorialAudioProcessorEditor()
 {
 }
 
 //==============================================================================
-void GainTutorialAudioProcessorEditor::paint (Graphics& g)
+void HeavyTutorialAudioProcessorEditor::paint (Graphics& g)
 {
     g.fillAll (Colours::black);
 }
 
-void GainTutorialAudioProcessorEditor::resized()
+void HeavyTutorialAudioProcessorEditor::resized()
 {
     int y = getHeight() / 2 - 75;
     int h = 150;
@@ -93,7 +93,7 @@ void GainTutorialAudioProcessorEditor::resized()
 }
 
 
-void GainTutorialAudioProcessorEditor::sliderValueChanged (Slider *slider)
+void HeavyTutorialAudioProcessorEditor::sliderValueChanged (Slider *slider)
 {
     
     if (slider == mGainSlider.get())
