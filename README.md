@@ -12,8 +12,8 @@ Included is the PureData Source File `Simple-OSC-Heavy.pd`, which works with Plu
 
 
 ## Why would I need this?
-Heavy compiles Plugins for different formats already: LV2, VST2, VST3, Clap, Jack ... 
-BUT if you want to create your own GUI, you need to spend some extra work, like to greate a unique GUI with JUCE.
+`HVCC` compiles Plugins for different formats already: LV2, VST2, VST3, Clap, Jack ... 
+BUT, if you want to create your own `GUI`, you need to spend some extra work, like to greate a unique GUI with JUCE.
 JUCE also gives you the possibility to create Projects for a huge variety of plattforms. You can create Apps for iOS or Android Devices for example, which is not possible with many other crossplatform audio frameworks.
 
 ##
