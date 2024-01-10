@@ -4,7 +4,7 @@ This Demo / Template includes a minimal synthesizer created with PureData/PlugDa
 
 
 ## How does it work?
-In ParamIds you have to double Hashs generate by the Heavy Compiler. In the case of this demo that's in the Heavy_Simple_OSC.h file. 
+In 'ParamIds.h' you have to double Hashs generate by the Heavy Compiler. In the case of this demo that's in the Heavy_Simple_OSC.h file. 
 
 ## More about
 - [PureData](https://puredata.info)
