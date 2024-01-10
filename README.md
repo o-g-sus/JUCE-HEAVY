@@ -3,7 +3,7 @@ This is a [JUCE](https://juce.com) Demo / Template Project showing how to connec
 This Demo / Template includes a minimal synthesizer created with PureData/PlugData which was then compiled with [HVCC](https://github.com/Wasted-Audio/hvcc). A connection between the Heavy parameters an JUCE is done via JUCE's AudioProcessor APVTS parameter management.
 
 ## How does it work?
-In 'ParamIds.h' you have to double Hashs generate by the Heavy Compiler. In the case of this demo that's in the Heavy_Simple_OSC.h file.
+In 'ParamIds.h' you have to double the Hashs/Parameters generate by the Heavy Compiler to connect them to APVTS. In the case of this demo the Parameters are in the Heavy_Simple_OSC.h file.
 The Project uses the generic editor by default, but if you cange to HeavyTutorialAudioProcessorEditor in HeavyTutorialAudioProcessor::createEditor() you can star with designing your own GUI. 
 
 
