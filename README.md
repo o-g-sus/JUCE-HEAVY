@@ -1,6 +1,6 @@
 # JUCE-HEAVY Template
-This is a [JUCE](https://juce.com) Demo / Template Project showing how to connect with Heavy C++ (shortform "HVCC") generated Source files.
-This Demo includes a minimal synthesizer created with PureData/PlugData which was then compiled with [HVCC](https://github.com/Wasted-Audio/hvcc). A connection between the Heavy parameters an JUCE is done via JUCE's AudioProcessor APVTS parameter management.
+This is a [JUCE](https://juce.com) Demo Project showing how to connect with Heavy C++ (shortform `HVCC`) generated Source files.
+This Demo includes a minimal synthesizer created with PureData/PlugData which was then compiled with [HVCC](https://github.com/Wasted-Audio/hvcc). A connection between the Heavy parameters an JUCE is done via JUCE's `AudioProcessor APVTS` parameter management.
 
 
 
