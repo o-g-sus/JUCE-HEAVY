@@ -10,5 +10,5 @@ In ParamIds you have to double Hashs generate by the Heavy Compiler. In the case
 - [PureData](https://puredata.info)
 - [PlugData](https://plugdata.org) A 'modern' way of patching PureData, comes with a built in HVCC Compiler already, very cool! 
 - [HVCC](https://github.com/Wasted-Audio/hvcc)
-- [HVCC C API]([https://github.com/Wasted-Audio/hvc](https://wasted-audio.github.io/hvcc/docs/05.c.html)c)
+- [HVCC C API](https://wasted-audio.github.io/hvcc/docs/05.c.html)
 - [JUCE](https://juce.com)
