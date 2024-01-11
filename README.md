@@ -28,10 +28,10 @@ Screenshot of the PlugData Source Patch and the JUCE auto generated Plugin Windo
 ![IMG_0804](https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/ea923f3b-c125-46f8-ba32-e22cf14dcf67)
 Screenshot of an AUv3 version of the app in AUM host app.
 <br />
-
+<br />
 For the Mobile Version you will take the Xcode iOS Exporter. To make it work on your iOS device change the Development ID to yours. 
 <img width="964" alt="Bildschirmfoto 2024-01-11 um 14 23 55" src="https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/6f461be6-f01d-4b7a-b784-0f8d8644ee80">
-
+<br />
 
 ## Possible ports with JUCE
 <img width="440" alt="Bildschirmfoto 2024-01-11 um 13 55 44" src="https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/6c608d03-a3e1-4ad3-af22-19fb9b16857f"><br />
