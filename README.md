@@ -26,7 +26,7 @@ Screenshot of the PlugData Source Patch and the JUCE auto generated Plugin Windo
 
 ## Mobile Version
 ![IMG_0804](https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/ea923f3b-c125-46f8-ba32-e22cf14dcf67)
-Screenshot of an `AUv3` version of the app in AUM host app.
+Screenshot of an `AUv3` version of the app inside AUM as host.
 <br />
 <br />
 For the Mobile Version you will use the Xcode iOS Exporter. 
