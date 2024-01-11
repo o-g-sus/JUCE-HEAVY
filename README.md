@@ -22,6 +22,11 @@ JUCE also gives you the possibility to create Projects for a huge variety of pla
 <img width="1266" alt="Bildschirmfoto 2024-01-11 um 11 12 15" src="https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/1d96e589-3dc8-4ad2-b8aa-5564acd1c831">
 Screenshot of the PlugData Source Patch and the JUCE auto generated Plugin Window
 
+## Ports that are possible with JUCE
+<img width="476" alt="Bildschirmfoto 2024-01-11 um 13 26 44" src="https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/a9bb6cde-fc99-403b-a0b4-f13ef2106afb">
+
+
+
 ## More about
 - [PureData](https://puredata.info) Open Source equivalent to `Max/Msp`, `Max4Live`
 - [PlugData](https://plugdata.org) A 'modern' way of patching PureData, comes with built in `HVCC` Compiler already, very cool! 
