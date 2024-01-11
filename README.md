@@ -25,7 +25,7 @@ Screenshot of the PlugData Source Patch and the JUCE auto generated Plugin Windo
 
 ## More about
 - [PureData](https://puredata.info) Open Source equivalent to `Max/Msp`, `Max4Live`
-- [PlugData](https://plugdata.org) A 'modern' way of patching PureData, comes with built in HVCC Compiler already, very cool! 
+- [PlugData](https://plugdata.org) A 'modern' way of patching PureData, comes with built in `HVCC` Compiler already, very cool! 
 - [HVCC](https://github.com/Wasted-Audio/hvcc) Source on Github
 - [HVCC INFO](https://wasted-audio.github.io/hvcc/), [HVCC C API](https://wasted-audio.github.io/hvcc/docs/05.c.html) Documentation
 - [JUCE](https://juce.com) Crossplatform Audio Framework
