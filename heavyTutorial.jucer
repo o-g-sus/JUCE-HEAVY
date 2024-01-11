@@ -13,91 +13,91 @@
       <FILE id="Wcwfu0" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
       <FILE id="GaiC81" name="ParamIds.h" compile="0" resource="0" file="Source/ParamIds.h"/>
       <GROUP id="{F38624AD-6134-F636-A2D4-A8FE78F81942}" name="HeavyFiles">
-        <FILE id="UaiGUP" name="Heavy_Simple_OSC.cpp" compile="1" resource="0"
+        <FILE id="WBEELu" name="Heavy_Simple_OSC.cpp" compile="1" resource="0"
               file="Source/HeavyFiles/Heavy_Simple_OSC.cpp"/>
-        <FILE id="QJ37Ik" name="Heavy_Simple_OSC.h" compile="0" resource="0"
+        <FILE id="iibYgu" name="Heavy_Simple_OSC.h" compile="0" resource="0"
               file="Source/HeavyFiles/Heavy_Simple_OSC.h"/>
-        <FILE id="rRayPV" name="Heavy_Simple_OSC.hpp" compile="0" resource="0"
+        <FILE id="wUFQpn" name="Heavy_Simple_OSC.hpp" compile="0" resource="0"
               file="Source/HeavyFiles/Heavy_Simple_OSC.hpp"/>
-        <FILE id="BXOclK" name="HeavyContext.cpp" compile="1" resource="0"
+        <FILE id="zfdztE" name="HeavyContext.cpp" compile="1" resource="0"
               file="Source/HeavyFiles/HeavyContext.cpp"/>
-        <FILE id="Od7yXv" name="HeavyContext.hpp" compile="0" resource="0"
+        <FILE id="WLMSjd" name="HeavyContext.hpp" compile="0" resource="0"
               file="Source/HeavyFiles/HeavyContext.hpp"/>
-        <FILE id="mlAHg9" name="HeavyContextInterface.hpp" compile="0" resource="0"
+        <FILE id="NcBMQU" name="HeavyContextInterface.hpp" compile="0" resource="0"
               file="Source/HeavyFiles/HeavyContextInterface.hpp"/>
-        <FILE id="ZeHPHO" name="HvControlBinop.c" compile="1" resource="0"
+        <FILE id="SEYDsU" name="HvControlBinop.c" compile="1" resource="0"
               file="Source/HeavyFiles/HvControlBinop.c"/>
-        <FILE id="Ny8CrH" name="HvControlBinop.h" compile="0" resource="0"
+        <FILE id="sQLKdC" name="HvControlBinop.h" compile="0" resource="0"
               file="Source/HeavyFiles/HvControlBinop.h"/>
-        <FILE id="yB092s" name="HvControlCast.c" compile="1" resource="0" file="Source/HeavyFiles/HvControlCast.c"/>
-        <FILE id="y64RrJ" name="HvControlCast.h" compile="0" resource="0" file="Source/HeavyFiles/HvControlCast.h"/>
-        <FILE id="FsmzHa" name="HvControlDelay.c" compile="1" resource="0"
+        <FILE id="CMUuCq" name="HvControlCast.c" compile="1" resource="0" file="Source/HeavyFiles/HvControlCast.c"/>
+        <FILE id="GbohS2" name="HvControlCast.h" compile="0" resource="0" file="Source/HeavyFiles/HvControlCast.h"/>
+        <FILE id="l3ZCf1" name="HvControlDelay.c" compile="1" resource="0"
               file="Source/HeavyFiles/HvControlDelay.c"/>
-        <FILE id="NmBbyk" name="HvControlDelay.h" compile="0" resource="0"
+        <FILE id="pG0K67" name="HvControlDelay.h" compile="0" resource="0"
               file="Source/HeavyFiles/HvControlDelay.h"/>
-        <FILE id="OmSXId" name="HvControlIf.c" compile="1" resource="0" file="Source/HeavyFiles/HvControlIf.c"/>
-        <FILE id="t2PrVD" name="HvControlIf.h" compile="0" resource="0" file="Source/HeavyFiles/HvControlIf.h"/>
-        <FILE id="z1QBAV" name="HvControlPack.c" compile="1" resource="0" file="Source/HeavyFiles/HvControlPack.c"/>
-        <FILE id="axGEMH" name="HvControlPack.h" compile="0" resource="0" file="Source/HeavyFiles/HvControlPack.h"/>
-        <FILE id="vDeA0Q" name="HvControlSlice.c" compile="1" resource="0"
+        <FILE id="BSQXvu" name="HvControlIf.c" compile="1" resource="0" file="Source/HeavyFiles/HvControlIf.c"/>
+        <FILE id="od8Vil" name="HvControlIf.h" compile="0" resource="0" file="Source/HeavyFiles/HvControlIf.h"/>
+        <FILE id="J8h6LZ" name="HvControlPack.c" compile="1" resource="0" file="Source/HeavyFiles/HvControlPack.c"/>
+        <FILE id="YWrWXW" name="HvControlPack.h" compile="0" resource="0" file="Source/HeavyFiles/HvControlPack.h"/>
+        <FILE id="x0HSk9" name="HvControlSlice.c" compile="1" resource="0"
               file="Source/HeavyFiles/HvControlSlice.c"/>
-        <FILE id="PoSEq8" name="HvControlSlice.h" compile="0" resource="0"
+        <FILE id="niZzFw" name="HvControlSlice.h" compile="0" resource="0"
               file="Source/HeavyFiles/HvControlSlice.h"/>
-        <FILE id="NaXviz" name="HvControlSystem.c" compile="1" resource="0"
+        <FILE id="xL9X0J" name="HvControlSystem.c" compile="1" resource="0"
               file="Source/HeavyFiles/HvControlSystem.c"/>
-        <FILE id="lS5NYS" name="HvControlSystem.h" compile="0" resource="0"
+        <FILE id="CQjyPz" name="HvControlSystem.h" compile="0" resource="0"
               file="Source/HeavyFiles/HvControlSystem.h"/>
-        <FILE id="FinM0r" name="HvControlTabhead.c" compile="1" resource="0"
+        <FILE id="tLDKKn" name="HvControlTabhead.c" compile="1" resource="0"
               file="Source/HeavyFiles/HvControlTabhead.c"/>
-        <FILE id="IS9OmR" name="HvControlTabhead.h" compile="0" resource="0"
+        <FILE id="SLP8o0" name="HvControlTabhead.h" compile="0" resource="0"
               file="Source/HeavyFiles/HvControlTabhead.h"/>
-        <FILE id="QM726u" name="HvControlUnop.c" compile="1" resource="0" file="Source/HeavyFiles/HvControlUnop.c"/>
-        <FILE id="fUQ0wg" name="HvControlUnop.h" compile="0" resource="0" file="Source/HeavyFiles/HvControlUnop.h"/>
-        <FILE id="cYc9kn" name="HvControlVar.c" compile="1" resource="0" file="Source/HeavyFiles/HvControlVar.c"/>
-        <FILE id="JUkUFH" name="HvControlVar.h" compile="0" resource="0" file="Source/HeavyFiles/HvControlVar.h"/>
-        <FILE id="mlaAUD" name="HvHeavy.cpp" compile="1" resource="0" file="Source/HeavyFiles/HvHeavy.cpp"/>
-        <FILE id="UVq3qX" name="HvHeavy.h" compile="0" resource="0" file="Source/HeavyFiles/HvHeavy.h"/>
-        <FILE id="ZBlGld" name="HvHeavyInternal.h" compile="0" resource="0"
+        <FILE id="PhsEgg" name="HvControlUnop.c" compile="1" resource="0" file="Source/HeavyFiles/HvControlUnop.c"/>
+        <FILE id="f33Kly" name="HvControlUnop.h" compile="0" resource="0" file="Source/HeavyFiles/HvControlUnop.h"/>
+        <FILE id="Io6djG" name="HvControlVar.c" compile="1" resource="0" file="Source/HeavyFiles/HvControlVar.c"/>
+        <FILE id="cLRcTZ" name="HvControlVar.h" compile="0" resource="0" file="Source/HeavyFiles/HvControlVar.h"/>
+        <FILE id="agkvG9" name="HvHeavy.cpp" compile="1" resource="0" file="Source/HeavyFiles/HvHeavy.cpp"/>
+        <FILE id="m39m0d" name="HvHeavy.h" compile="0" resource="0" file="Source/HeavyFiles/HvHeavy.h"/>
+        <FILE id="BzOKp0" name="HvHeavyInternal.h" compile="0" resource="0"
               file="Source/HeavyFiles/HvHeavyInternal.h"/>
-        <FILE id="lAmH10" name="HvLightPipe.c" compile="1" resource="0" file="Source/HeavyFiles/HvLightPipe.c"/>
-        <FILE id="zEQU94" name="HvLightPipe.h" compile="0" resource="0" file="Source/HeavyFiles/HvLightPipe.h"/>
-        <FILE id="pUBrzu" name="HvMath.h" compile="0" resource="0" file="Source/HeavyFiles/HvMath.h"/>
-        <FILE id="Ne7fOI" name="HvMessage.c" compile="1" resource="0" file="Source/HeavyFiles/HvMessage.c"/>
-        <FILE id="vs2USf" name="HvMessage.h" compile="0" resource="0" file="Source/HeavyFiles/HvMessage.h"/>
-        <FILE id="tGfSpQ" name="HvMessagePool.c" compile="1" resource="0" file="Source/HeavyFiles/HvMessagePool.c"/>
-        <FILE id="KYPqWH" name="HvMessagePool.h" compile="0" resource="0" file="Source/HeavyFiles/HvMessagePool.h"/>
-        <FILE id="wLA3Am" name="HvMessageQueue.c" compile="1" resource="0"
+        <FILE id="HuDkBt" name="HvLightPipe.c" compile="1" resource="0" file="Source/HeavyFiles/HvLightPipe.c"/>
+        <FILE id="plAl1K" name="HvLightPipe.h" compile="0" resource="0" file="Source/HeavyFiles/HvLightPipe.h"/>
+        <FILE id="QCFR3C" name="HvMath.h" compile="0" resource="0" file="Source/HeavyFiles/HvMath.h"/>
+        <FILE id="Rz5YEW" name="HvMessage.c" compile="1" resource="0" file="Source/HeavyFiles/HvMessage.c"/>
+        <FILE id="Vw6MOA" name="HvMessage.h" compile="0" resource="0" file="Source/HeavyFiles/HvMessage.h"/>
+        <FILE id="V7w5EB" name="HvMessagePool.c" compile="1" resource="0" file="Source/HeavyFiles/HvMessagePool.c"/>
+        <FILE id="higzLm" name="HvMessagePool.h" compile="0" resource="0" file="Source/HeavyFiles/HvMessagePool.h"/>
+        <FILE id="lQLzrQ" name="HvMessageQueue.c" compile="1" resource="0"
               file="Source/HeavyFiles/HvMessageQueue.c"/>
-        <FILE id="wrFnSl" name="HvMessageQueue.h" compile="0" resource="0"
+        <FILE id="TZMgm2" name="HvMessageQueue.h" compile="0" resource="0"
               file="Source/HeavyFiles/HvMessageQueue.h"/>
-        <FILE id="h2UaUz" name="HvSignalBiquad.c" compile="1" resource="0"
+        <FILE id="jGMzh5" name="HvSignalBiquad.c" compile="1" resource="0"
               file="Source/HeavyFiles/HvSignalBiquad.c"/>
-        <FILE id="fg35Jn" name="HvSignalBiquad.h" compile="0" resource="0"
+        <FILE id="HLd3oD" name="HvSignalBiquad.h" compile="0" resource="0"
               file="Source/HeavyFiles/HvSignalBiquad.h"/>
-        <FILE id="jU8QMp" name="HvSignalDel1.c" compile="1" resource="0" file="Source/HeavyFiles/HvSignalDel1.c"/>
-        <FILE id="PkuQ9U" name="HvSignalDel1.h" compile="0" resource="0" file="Source/HeavyFiles/HvSignalDel1.h"/>
-        <FILE id="lfSOuK" name="HvSignalLine.c" compile="1" resource="0" file="Source/HeavyFiles/HvSignalLine.c"/>
-        <FILE id="BQqu0p" name="HvSignalLine.h" compile="0" resource="0" file="Source/HeavyFiles/HvSignalLine.h"/>
-        <FILE id="LMRbft" name="HvSignalPhasor.c" compile="1" resource="0"
+        <FILE id="JFQ0p1" name="HvSignalDel1.c" compile="1" resource="0" file="Source/HeavyFiles/HvSignalDel1.c"/>
+        <FILE id="tD1kJT" name="HvSignalDel1.h" compile="0" resource="0" file="Source/HeavyFiles/HvSignalDel1.h"/>
+        <FILE id="bxVzE2" name="HvSignalLine.c" compile="1" resource="0" file="Source/HeavyFiles/HvSignalLine.c"/>
+        <FILE id="aSjenL" name="HvSignalLine.h" compile="0" resource="0" file="Source/HeavyFiles/HvSignalLine.h"/>
+        <FILE id="NoBJf4" name="HvSignalPhasor.c" compile="1" resource="0"
               file="Source/HeavyFiles/HvSignalPhasor.c"/>
-        <FILE id="CNceNs" name="HvSignalPhasor.h" compile="0" resource="0"
+        <FILE id="VeV4xi" name="HvSignalPhasor.h" compile="0" resource="0"
               file="Source/HeavyFiles/HvSignalPhasor.h"/>
-        <FILE id="nnmqMP" name="HvSignalRPole.c" compile="1" resource="0" file="Source/HeavyFiles/HvSignalRPole.c"/>
-        <FILE id="RgYEda" name="HvSignalRPole.h" compile="0" resource="0" file="Source/HeavyFiles/HvSignalRPole.h"/>
-        <FILE id="qxfdC9" name="HvSignalTabread.c" compile="1" resource="0"
+        <FILE id="V1dxGZ" name="HvSignalRPole.c" compile="1" resource="0" file="Source/HeavyFiles/HvSignalRPole.c"/>
+        <FILE id="cg0wLP" name="HvSignalRPole.h" compile="0" resource="0" file="Source/HeavyFiles/HvSignalRPole.h"/>
+        <FILE id="z9xjh4" name="HvSignalTabread.c" compile="1" resource="0"
               file="Source/HeavyFiles/HvSignalTabread.c"/>
-        <FILE id="te7YGi" name="HvSignalTabread.h" compile="0" resource="0"
+        <FILE id="uYbY1S" name="HvSignalTabread.h" compile="0" resource="0"
               file="Source/HeavyFiles/HvSignalTabread.h"/>
-        <FILE id="teBU4q" name="HvSignalTabwrite.c" compile="1" resource="0"
+        <FILE id="hGJXIV" name="HvSignalTabwrite.c" compile="1" resource="0"
               file="Source/HeavyFiles/HvSignalTabwrite.c"/>
-        <FILE id="PHLqhK" name="HvSignalTabwrite.h" compile="0" resource="0"
+        <FILE id="LFVR0k" name="HvSignalTabwrite.h" compile="0" resource="0"
               file="Source/HeavyFiles/HvSignalTabwrite.h"/>
-        <FILE id="VtMGch" name="HvSignalVar.c" compile="1" resource="0" file="Source/HeavyFiles/HvSignalVar.c"/>
-        <FILE id="NkGXQl" name="HvSignalVar.h" compile="0" resource="0" file="Source/HeavyFiles/HvSignalVar.h"/>
-        <FILE id="eFhdBZ" name="HvTable.c" compile="1" resource="0" file="Source/HeavyFiles/HvTable.c"/>
-        <FILE id="EFcHHb" name="HvTable.h" compile="0" resource="0" file="Source/HeavyFiles/HvTable.h"/>
-        <FILE id="sXltXE" name="HvUtils.c" compile="1" resource="0" file="Source/HeavyFiles/HvUtils.c"/>
-        <FILE id="a9JSvQ" name="HvUtils.h" compile="0" resource="0" file="Source/HeavyFiles/HvUtils.h"/>
+        <FILE id="McmofH" name="HvSignalVar.c" compile="1" resource="0" file="Source/HeavyFiles/HvSignalVar.c"/>
+        <FILE id="kmU7du" name="HvSignalVar.h" compile="0" resource="0" file="Source/HeavyFiles/HvSignalVar.h"/>
+        <FILE id="NNhDf6" name="HvTable.c" compile="1" resource="0" file="Source/HeavyFiles/HvTable.c"/>
+        <FILE id="r5ZhvK" name="HvTable.h" compile="0" resource="0" file="Source/HeavyFiles/HvTable.h"/>
+        <FILE id="tj5ZlD" name="HvUtils.c" compile="1" resource="0" file="Source/HeavyFiles/HvUtils.c"/>
+        <FILE id="Kcf87k" name="HvUtils.h" compile="0" resource="0" file="Source/HeavyFiles/HvUtils.h"/>
       </GROUP>
     </GROUP>
   </MAINGROUP>
