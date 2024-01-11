@@ -15,14 +15,15 @@ The PureData Source File `Simple-OSC.pd` is included in the root folder of the P
 `HVCC` compiles Plugins for different formats already: LV2, VST2, VST3, Clap, Jack ... 
 BUT, if you want to create your own `GUI`, you need to spend some extra work, like to create a unique GUI with JUCE.
 JUCE also gives you the possibility to create Projects for a huge variety of plattforms. You can create Apps for iOS or Android Devices for example, which is not possible with many other crossplatform audio frameworks.
-
-##
+<br />
+<br />
 
 
 <img width="1266" alt="Bildschirmfoto 2024-01-11 um 11 12 15" src="https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/1d96e589-3dc8-4ad2-b8aa-5564acd1c831">
 Screenshot of the PlugData Source Patch and the JUCE auto generated Plugin Window
+<br />
 
-##
+
 ## Possible ports with JUCE
 <img width="440" alt="Bildschirmfoto 2024-01-11 um 13 55 44" src="https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/6c608d03-a3e1-4ad3-af22-19fb9b16857f"><br />
 This project will create the ports for Standalone, VST3 and AUv3, but you can go other directions of course.
