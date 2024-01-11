@@ -1,4 +1,4 @@
-# JUCE-HEAVY DEMO
+# JUCE-HEAVY DEMO Desktop & iOS
 This is a [JUCE](https://juce.com) Demo Project showing how to connect with Heavy C++ (shortform `HVCC`) generated Source files.
 The Demo includes a minimal synthesizer created with PureData/PlugData which was then compiled with [HVCC](https://github.com/Wasted-Audio/hvcc). A connection between the Heavy parameters and JUCE is done via JUCE's `AudioProcessor APVTS` parameter management.
 
