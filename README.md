@@ -29,7 +29,7 @@ Screenshot of the PlugData Source Patch and the JUCE auto generated Plugin Windo
 Screenshot of an `AUv3` version of the app in AUM host app.
 <br />
 <br />
-For the Mobile Version you will take the Xcode iOS Exporter.__ To make it work on your iOS device change the `Development Team ID` to yours. 
+For the Mobile Version you will take the Xcode iOS Exporter.<br /> To make it work on your iOS device change the `Development Team ID` to yours. 
 <img width="964" alt="Bildschirmfoto 2024-01-11 um 14 23 55" src="https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/6f461be6-f01d-4b7a-b784-0f8d8644ee80">
 <br />
 
