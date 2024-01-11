@@ -19,10 +19,7 @@ JUCE also gives you the possibility to create Projects for a huge variety of pla
 ##
 
 
-
-![Groß (Bildschirmfoto 2024-01-10 um 21 23 21)](https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/965c4212-811f-4418-bd54-f9096a2225e6)
 <img width="1266" alt="Bildschirmfoto 2024-01-11 um 11 12 15" src="https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/1d96e589-3dc8-4ad2-b8aa-5564acd1c831">
-
 Screenshot of the PlugData Source Patch and the JUCE auto generated Plugin Window
 
 ## More about
