@@ -25,7 +25,7 @@ Screenshot of the PlugData Source Patch and the JUCE auto generated Plugin Windo
 ##
 ## Possible ports with JUCE
 <img width="476" alt="Bildschirmfoto 2024-01-11 um 13 26 44" src="https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/a9bb6cde-fc99-403b-a0b4-f13ef2106afb"><br />
-This project will create the ports for Standalone VST3 and AUv3, but you can go other directions of course.
+This project will create the ports for Standalone, VST3 and AUv3, but you can go other directions of course.
 
 
 ## More about
