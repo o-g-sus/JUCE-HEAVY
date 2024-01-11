@@ -36,7 +36,7 @@ For the Mobile Version you will take the Xcode iOS Exporter. To make it work on 
 ## Possible ports with JUCE
 <img width="440" alt="Bildschirmfoto 2024-01-11 um 13 55 44" src="https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/6c608d03-a3e1-4ad3-af22-19fb9b16857f"><br />
 This project will create the ports for Standalone, VST3 and AUv3, but you can go other directions of course.
-
+<br />
 
 ## More about
 - [PureData](https://puredata.info) Open Source equivalent to `Max/Msp`, `Max4Live`
