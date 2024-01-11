@@ -27,5 +27,5 @@ Screenshot of the PlugData Source Patch and the JUCE auto generated Plugin Windo
 - [PureData](https://puredata.info)
 - [PlugData](https://plugdata.org) A 'modern' way of patching PureData, comes with a built in HVCC Compiler already, very cool! 
 - [HVCC](https://github.com/Wasted-Audio/hvcc)
-- [HVCC C API](https://wasted-audio.github.io/hvcc/docs/05.c.html)
+- [HVCC INFO](https://wasted-audio.github.io/hvcc/),[HVCC C API](https://wasted-audio.github.io/hvcc/docs/05.c.html)
 - [JUCE](https://juce.com)
