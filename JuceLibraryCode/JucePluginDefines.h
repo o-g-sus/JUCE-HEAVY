@@ -17,10 +17,10 @@
  #define JucePlugin_Build_VST3             1
 #endif
 #ifndef  JucePlugin_Build_AU
- #define JucePlugin_Build_AU               1
+ #define JucePlugin_Build_AU               0
 #endif
 #ifndef  JucePlugin_Build_AUv3
- #define JucePlugin_Build_AUv3             0
+ #define JucePlugin_Build_AUv3             1
 #endif
 #ifndef  JucePlugin_Build_AAX
  #define JucePlugin_Build_AAX              0
@@ -62,7 +62,7 @@
  #define JucePlugin_PluginCode             0x496b7879
 #endif
 #ifndef  JucePlugin_IsSynth
- #define JucePlugin_IsSynth                0
+ #define JucePlugin_IsSynth                1
 #endif
 #ifndef  JucePlugin_WantsMidiInput
  #define JucePlugin_WantsMidiInput         0
@@ -89,13 +89,13 @@
  #define JucePlugin_VSTUniqueID            JucePlugin_PluginCode
 #endif
 #ifndef  JucePlugin_VSTCategory
- #define JucePlugin_VSTCategory            kPlugCategEffect
+ #define JucePlugin_VSTCategory            kPlugCategSynth
 #endif
 #ifndef  JucePlugin_Vst3Category
- #define JucePlugin_Vst3Category           "Fx"
+ #define JucePlugin_Vst3Category           "Instrument|Synth"
 #endif
 #ifndef  JucePlugin_AUMainType
- #define JucePlugin_AUMainType             'aufx'
+ #define JucePlugin_AUMainType             'aumu'
 #endif
 #ifndef  JucePlugin_AUSubType
  #define JucePlugin_AUSubType              JucePlugin_PluginCode
@@ -122,7 +122,7 @@
  #define JucePlugin_AAXProductId           JucePlugin_PluginCode
 #endif
 #ifndef  JucePlugin_AAXCategory
- #define JucePlugin_AAXCategory            0
+ #define JucePlugin_AAXCategory            2048
 #endif
 #ifndef  JucePlugin_AAXDisableBypass
  #define JucePlugin_AAXDisableBypass       0
@@ -131,7 +131,7 @@
  #define JucePlugin_AAXDisableMultiMono    0
 #endif
 #ifndef  JucePlugin_IAAType
- #define JucePlugin_IAAType                0x61757278
+ #define JucePlugin_IAAType                0x61757267
 #endif
 #ifndef  JucePlugin_IAASubType
  #define JucePlugin_IAASubType             JucePlugin_PluginCode

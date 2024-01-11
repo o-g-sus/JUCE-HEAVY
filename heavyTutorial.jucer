@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="Ikxy0f" name="heavyTutorial" projectType="audioplug" jucerFormatVersion="1"
-              bundleIdentifier="de.ogsus.heavyTutorial">
+              bundleIdentifier="de.ogsus.heavyTutorial" pluginFormats="buildAUv3,buildStandalone,buildVST3"
+              pluginCharacteristicsValue="pluginIsSynth">
   <MAINGROUP id="K02RYE" name="heavyTutorial">
     <GROUP id="{10E0841D-41A8-08E2-88C1-046E87B945E5}" name="Source">
       <FILE id="TSqlTp" name="PluginProcessor.cpp" compile="1" resource="0"
@@ -124,6 +125,29 @@
         <MODULEPATH id="juce_opengl" path="../../../../../../../Applications/JUCE/modules"/>
       </MODULEPATHS>
     </XCODE_MAC>
+    <XCODE_IPHONE targetFolder="Builds/iOS" iosDevelopmentTeamID="3MF95HQNEQ" microphonePermissionNeeded="1"
+                  microphonePermissionsText="Needed for nothing">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+        <CONFIGURATION isDebug="0" name="Release"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+        <MODULEPATH id="juce_core" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+        <MODULEPATH id="juce_cryptography" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+        <MODULEPATH id="juce_data_structures" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+        <MODULEPATH id="juce_events" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+        <MODULEPATH id="juce_graphics" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+        <MODULEPATH id="juce_opengl" path="/Users/olivergreschke/Programmierung/JUCE-master/modules"/>
+      </MODULEPATHS>
+    </XCODE_IPHONE>
   </EXPORTFORMATS>
   <MODULES>
     <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
