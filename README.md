@@ -24,8 +24,8 @@ JUCE also gives you the possibility to create Projects for a huge variety of pla
 Screenshot of the PlugData Source Patch and the JUCE auto generated Plugin Window
 
 ## More about
-- [PureData](https://puredata.info)
+- [PureData](https://puredata.info) Open Source equivalent to `Max/Msp`, `Max4Live`
 - [PlugData](https://plugdata.org) A 'modern' way of patching PureData, comes with a built in HVCC Compiler already, very cool! 
-- [HVCC](https://github.com/Wasted-Audio/hvcc)
-- [HVCC INFO](https://wasted-audio.github.io/hvcc/),[HVCC C API](https://wasted-audio.github.io/hvcc/docs/05.c.html)
-- [JUCE](https://juce.com)
+- [HVCC](https://github.com/Wasted-Audio/hvcc) 
+- [HVCC INFO](https://wasted-audio.github.io/hvcc/), [HVCC C API](https://wasted-audio.github.io/hvcc/docs/05.c.html)
+- [JUCE](https://juce.com) Crossplatform Audio Framework
