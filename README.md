@@ -35,9 +35,9 @@ To make it work on your iOS device change the `Development Team ID` to yours.
 <br />
 <br /> 
 
-## Possible ports with JUCE
+## Possible Builds with JUCE
 <img width="440" alt="Bildschirmfoto 2024-01-11 um 13 55 44" src="https://github.com/o-g-sus/JUCE-HEAVY/assets/1574482/6c608d03-a3e1-4ad3-af22-19fb9b16857f"><br />
-This project will create the ports for Standalone, VST3 and AUv3, but you can go other directions of course.
+This project will create Builds for Standalone, VST3 and AUv3, but you can go other directions of course.
 <br />
 
 ## More about
